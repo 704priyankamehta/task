@@ -1,6 +1,7 @@
-.App {
+.Landing {
   text-align: center;
   background-color: pink;
+  background-size: auto;
 }
 
 .label {
@@ -15,9 +16,9 @@
   padding: 5px;
   margin: 2px;
 }
-.btn {
-  color: white;
-  background-color: red;
+.btns {
+  color: rgb(255, 255, 255);
+  background-color: blanchedalmond;
   border-radius: 5px;
   font-size: larger;
   display: block;

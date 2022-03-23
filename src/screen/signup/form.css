@@ -1,4 +1,4 @@
-.App {
+.form {
   text-align: center;
   background-color: pink;
 }
@@ -6,7 +6,7 @@
 .label {
   display: block;
   font-size: larger;
-  color: white;
+  color: rgb(194, 27, 27);
   padding: 5px;
 }
 
@@ -17,7 +17,7 @@
 }
 .btn {
   color: white;
-  background-color: red;
+  background-color: rgb(100, 89, 119);
   border-radius: 5px;
   font-size: larger;
   display: block;
